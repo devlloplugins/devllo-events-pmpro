@@ -1,0 +1,7 @@
+.single-devllo_event .pmpro_content_message {
+    display: none; 
+}
+
+.single-devllo_event div.event-details > div.pmpro_content_message {
+   display: block;
+}
