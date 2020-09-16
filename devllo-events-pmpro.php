@@ -1,10 +1,10 @@
 <?php
 /*
-    Plugin Name: PMPro Integration for Devllo Events
+    Plugin Name: Devllo Events PMPro
     Plugin URI: https://devlloplugins.com/
     Description: This adds an integration with PMPro to restrict events to PMPro members
     Author: Devllo Plugins
-    Version: 0.0.1
+    Version: 0.9
     Author URI: https://devllo.com/
     Text Domain: devllo-events-pmpro
     Domain Path: /languages
@@ -48,10 +48,10 @@ global $post;
   //  $map_location = get_post_meta( $post->ID, 'devllo_event_location_key', true );
 
 
-    $show_event_website = get_post_meta($id, 'show_event_website', true);
-    $show_event_online_link = get_post_meta($id, 'show_event_online_link', true);
-    $show_event_location = get_post_meta($id, 'show_event_location', true);
-    $show_event_map = get_post_meta($id, 'show_event_map', true);
+    $show_event_website = get_post_meta($id, 'devllo_show_event_website_key', true);
+    $show_event_online_link = get_post_meta($id, 'devllo_show_event_online_link_key', true);
+    $show_event_location = get_post_meta($id, 'devllo_show_event_location_key', true);
+    $show_event_map = get_post_meta($id, 'devllo_show_event_map_key', true);
 
     if ($show_event_website)
     {
