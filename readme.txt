@@ -1,4 +1,4 @@
-=== Devllo Events PMPro ===
+=== PMPro Integration for Devllo Events ===
 Contributors: devlloplugins
 Tags: calendar, events, event, event manager, event management, fullcalendar, pmpro
 Requires at least: 4.4
