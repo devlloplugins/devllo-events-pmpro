@@ -1,6 +1,6 @@
 <?php
 /*
-    Plugin Name: Devllo Events PMPro
+    Plugin Name: PMPro Integration for Devllo Events
     Plugin URI: https://devlloplugins.com/
     Description: This adds an integration with PMPro to restrict events to PMPro members
     Author: Devllo Plugins
