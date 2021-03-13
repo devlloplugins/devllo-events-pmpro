@@ -2,9 +2,9 @@
 Contributors: devlloplugins
 Tags: calendar, events, event, event manager, event management, fullcalendar, pmpro
 Requires at least: 4.4
-Tested up to: 5.5
+Tested up to: 5.7
 Requires PHP: 5.5
-Stable tag: 1.0.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 
 This adds an integration with PMPro to restrict events to PMPro members
@@ -28,4 +28,8 @@ Please post it in the [WordPress support forum](https://wordpress.org/support/pl
 
 
 == Changelog ==
+= 1.0.1 =
+Updated/Tested Latest WordPress Version
+Fix Event Website Typo on Admin Page
+
 = 0.9 =
